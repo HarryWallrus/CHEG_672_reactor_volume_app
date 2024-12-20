@@ -1,1 +1,1 @@
-# CHEG_672_reactor_volumes_app
+# CSTR and PFR volume calculator app
